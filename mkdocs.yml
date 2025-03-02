@@ -17,6 +17,18 @@ nav:
        - Unique Hit Impact Effects: UniqueHitImpactEffectSpawner.md 
        - Friendly Fire: FriendlyFire.md 
        - Melee Attack: PlayerMeleeSetup.md 
+       - Insendiary & Explosive Grenade Setup Part 1: PlayerGrenadeSetupPart1.md 
+       - Player Grenade Setup Part 2: PlayerGrenadeSetupPart2.md
+       - Artillery Support: PlayerArtillerySupport.md
+       - Air Support: PlayerAirSupport.md
+       - Mission Briefing Audio Player: PlayerMissionBriefingAudioPlayer.md
+       - HUD Settings: PlayerHudSettings.md
+       - Player Checkpoint System: PlayerCheckpointSystem.md  
+       - Player Items Inventory: PlayerItemsInventory.md  
+       - HealthPack Pickup: PickupHealthPack.md  
+       - AmmoBox Pickup: AmmoBox.md  
+       - Grenade Pickup: GrenadePickup.md  
+       - Winning Conditions: WinConditions.md  
     - Humanoid Soldier AI:
        - Getting Started: HumanoidAiGetStarted.md
        - Setting Up The Agent: HumanoidAiSettingUpAgent.md
